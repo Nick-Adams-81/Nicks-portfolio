@@ -1,0 +1,156 @@
+
+body{
+    background-color: rgba(226, 241, 241, 0.616);
+}
+h1{
+    font-size: 70px;
+    color: rgba(17, 16, 16, 0.596);
+    
+}   
+h2{
+    font-size: 40px;
+    color: rgb(202, 202, 226);
+}   
+h3{
+    font-size: 2em;
+    color: grey;
+}   
+p{
+    font-size: 1em;
+}
+.container{
+    background-color:rgb(0,0,0);
+    background-image:url(http://www.zingerbugimages.com/backgrounds/gray_parchment_paper_wallpaper_texture_seamless.jpg);
+    background-position:top left;background-repeat:repeat;
+    background-attachment:fixed;
+    display: flex;
+    flex-direction: column;
+}
+
+.top{ 
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.name{
+    margin-left: 165px;
+    background-color: #4aaaae;
+    flex-basis: 30%;
+    text-align: center;
+}
+.header{
+    display: flex;
+    flex-basis: 40%;
+    align-items: flex-end;
+}
+.linkText{
+    font-size: 2.5em;
+    text-align: center;
+    font-style: normal;
+
+}
+.textLink:link{
+    color: blue;
+}
+.textLink:visited{
+    color: red;
+}
+.about{
+    border-left: 3px;
+    border-right: 3px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    flex:1;
+}
+.portfolio{
+    border-left: 4px solid slategrey;
+    border-right: 2px solid slategrey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    flex:1;
+
+}
+.contact{
+    border-left: 3px solid slategrey;
+    border-right: 3px solid slategrey;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    flex:1;
+}
+.mdl{
+    padding: 15px;
+    display: flex;
+    border-top: slateblue solid 15px;
+    justify-content:space-between;
+    align-items: flex-start;
+    flex-wrap:wrap;
+}
+.aboutMe{
+    margin-left: 150px;
+    padding: 15px;
+    background-color: white;
+    flex-basis:50%;
+}
+.title1{
+    border-bottom: solid;
+
+}
+.dog{
+    padding: 0px;
+    margin: 20px;
+    height:400px;
+    float: left;
+    }
+.links{
+    padding: 10px;
+    background-color: white;
+    flex-basis:20%;
+    text-align: center;
+    margin-right: 50px;
+}
+.title2{
+    border-bottom: solid;
+}
+.linkImgs{
+    padding: 10px;
+    display: flex;
+}
+.bdm{
+    padding-top: 5px;
+    background-color: black;
+
+}
+.input{
+    width: 100%;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: .3s;
+}
+.yourName{
+    width: 33%;
+    float: left;  
+}
+.yourEmail{
+    width: 33%;
+    float: left;
+}
+.yourPhonenumber{
+    width: 33%;
+    float: left;
+    border-color: blue;
+
+}
+.submit{
+    width: 33%;
+    height: 33%;
+    padding: 20px;
+    margin: 20px;
+}

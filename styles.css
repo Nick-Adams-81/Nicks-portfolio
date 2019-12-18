@@ -3,7 +3,7 @@ body{
     background-color: rgba(226, 241, 241, 0.616);
 }
 h1{
-    font-size: 70px;
+    font-size: 40px;
     color: rgba(17, 16, 16, 0.596);
     
 }   
@@ -16,7 +16,7 @@ h3{
     color: grey;
 }   
 p{
-    font-size: 1em;
+    font-size: 20px;
 }
 .container{
     background-color:rgb(0,0,0);
@@ -43,6 +43,7 @@ p{
     display: flex;
     flex-basis: 40%;
     align-items: flex-end;
+
 }
 .linkText{
     font-size: 2.5em;
@@ -56,19 +57,18 @@ p{
 .textLink:visited{
     color: red;
 }
-.about{
-    border-left: 3px;
-    border-right: 3px;
+.aboutMe{
+    border-left: 1px;
+    border-right: 1px;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
     flex:1;
+    padding: 15px;
 }
 .portfolio{
     border-left: 4px solid slategrey;
     border-right: 2px solid slategrey;
-    margin-top: 20px;
-    margin-bottom: 20px;
     text-align: center;
     flex:1;
 
@@ -77,8 +77,6 @@ p{
     border-left: 2px solid slategrey;
     border-right: 2px solid slategrey;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
     flex:1;
 }
 .mdl{
@@ -89,9 +87,7 @@ p{
     align-items: flex-start;
     flex-wrap:wrap;
 }
-.aboutMe{
-    margin-left: 150px;
-    padding: 15px;
+.about{
     background-color: white;
     flex-basis:50%;
 }
@@ -99,10 +95,12 @@ p{
     border-bottom: solid;
 
 }
-.dog{
-    padding: 0px;
-    margin: 20px;
-    height:400px;
+.content{
+    align-content: center;
+
+}
+.theDog{
+    padding: 10px;
     float: left;
     }
 .links{
@@ -156,7 +154,7 @@ p{
     width: 85%;
     float: left;
     text-align: center;
-    padding: 15px;
+    padding: 30px;
     box-sizing: border-box;
 
 
@@ -168,3 +166,69 @@ p{
 
     
 }
+#box1{
+    height: 150px;
+    width: 150px;
+    color: blue;
+    background-color: #4aaaae;
+    border: 1px solid;
+    float: left;
+    margin: 60px;
+    
+    
+    
+    
+
+}
+    #box2{
+        height: 150px;
+        width: 150px;
+        background-color: #4aaaae;
+        align-content: center;
+        border: 1px solid;
+        float: left;
+        margin: 60px;
+    
+        
+        
+        
+        
+
+    }
+    #box3{
+        height: 150px;
+        width: 150px;
+        background-color: #4aaaae;
+        border: 1px solid;
+        float: left;
+        margin: 60px;
+
+
+        
+
+    }
+    #box4{
+        height: 150px;
+        width: 150px;
+        background-color: #4aaaae;
+        border: 1px solid;
+        float: left;
+        margin: 60px;
+
+    }
+    #box5{
+        height: 150px;
+        width: 150px;
+        color: blue;
+        background-color: #4aaaae;
+        border: 1px solid;
+        float: left;
+        margin: 60px;
+    }
+    .clearfix:after{
+        content: " ";
+        display: table;
+        clear: both;
+    }
+
+

@@ -73,15 +73,15 @@ p{
     
 }
 .portfolio{
-    border-left: 4px solid slategrey;
-    border-right: 2px solid slategrey;
+border-left: 3px solid slategray;
+    border-right: 3px solid slategrey;
     text-align: center;
     flex:1;
 
 }
 .contact{
-    border-left: 2px solid slategrey;
-    border-right: 2px solid slategrey;
+    border-left: 3px solid slategrey;
+    border-right: 3px solid slategrey;
     text-align: center;
     flex:1;
 }
@@ -93,6 +93,7 @@ p{
     flex-wrap:wrap;
 }
 .about{
+    border-left: 3px solid slategray;
     background-color: white;
     flex-basis:50%;
 }

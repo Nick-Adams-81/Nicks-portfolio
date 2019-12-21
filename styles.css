@@ -1,6 +1,7 @@
 
 body{
     background-color: rgba(226, 241, 241, 0.616);
+
 }
 h1{
     font-size: 40px;
@@ -67,7 +68,7 @@ p{
     border-right: 1px;
     text-align: center;
     margin-top: 25px;
-    margin-bottom: 25px;
+
     flex:1;
     
 }
@@ -234,17 +235,8 @@ p{
         border-top: 35px solid slategrey;
 
     }
-    #box5{
-        height: 115px;
-        width: 150px;
-        
-        background-color: #4aaaae;
-        border: 1px solid black;
-        float: left;
-        margin: 60px;
-        margin-left: 200px;
-        border-top: 35 px solid slategrey;
-    }
+   
+    
     .text1{
         font-size: 25px;
         margin: ;

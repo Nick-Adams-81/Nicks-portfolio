@@ -12,6 +12,8 @@ h1{
 }
 .navbar{
     width: 100%;
+    position: sticky;
+    
 
 }
 

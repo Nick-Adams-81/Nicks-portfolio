@@ -6,6 +6,9 @@ background-attachment: fixed;
 background-position: center;
 
 }
+.lead{
+    color: rgb(170, 233, 227);
+}
 .jumbotron{
     background-image: url(https://images.unsplash.com/photo-1565361587753-6c55978411d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60);
     width: 100%;

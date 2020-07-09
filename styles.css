@@ -47,7 +47,7 @@ footer{
 }
 
 .quiz-btn {
-    margin-left: 22%;
+    margin-left: 10%;
 }
 
 .main {
@@ -69,4 +69,7 @@ li {
 .skills-b {
     display: inline-block;
     margin-left: 35px;
+}
+.clockin-btn {
+    margin-left: 8%;
 }

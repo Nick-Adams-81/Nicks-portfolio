@@ -13,6 +13,7 @@ background-position: center;
 .jumbotron{
     background-image: url(https://images.unsplash.com/photo-1565361587753-6c55978411d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60);
     width: 100%;
+    
 }
 h1{
     color: rgb(170, 233, 227);
@@ -35,6 +36,7 @@ footer{
     position: fixed;
     bottom: 0;
     width: 100%;
+   
 }
 
 .button-1 {
@@ -46,4 +48,25 @@ footer{
 
 .quiz-btn {
     margin-left: 22%;
+}
+
+.main {
+    font-size: 30px;
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+.skills {
+    margin-left: 10px;  
+}
+li {
+    font-size: larger;
+}
+.skills-a {
+    display: inline-block;
+}
+.skills-b {
+    display: inline-block;
+    margin-left: 35px;
 }

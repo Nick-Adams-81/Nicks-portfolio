@@ -1,6 +1,6 @@
 # Nick Adams Portfolio
 
-This is my portfolio site, it is dedicated to showing my growth as a web developer
+This is my portfolio site, it is dedicated to showing my growth as a web developer.
 
 # Technologies learned
 

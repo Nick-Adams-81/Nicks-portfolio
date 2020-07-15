@@ -27,6 +27,9 @@ h1{
     
 
 }
+.email {
+    font-size: smaller;
+}
 
 
 footer{
@@ -52,6 +55,7 @@ footer{
 
 .main {
     font-size: 30px;
+    margin-left: 12%;
 }
 h2 {
     font-size: 40px;
@@ -85,4 +89,7 @@ li {
 }
 .scheduler-btn {
     margin-left: 3%;
+}
+p {
+    font-size: medium;
 }

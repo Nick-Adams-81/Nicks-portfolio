@@ -12,6 +12,9 @@ once installed all you need to do is right click on the desired file and click o
 this app has no back end functionality
 ```
 
+## License
+This project is licensed under the MIT license.
+
 # Technologies learned
 
 * HTML 
@@ -48,6 +51,22 @@ this app has no back end functionality
 
 * https://thebigdeal916.github.io/Nicks-portfolio/
 
-# Input desired
+# Authour
 
-Any input you may have would be greatly apreciated, as I am still new to web development and still learning, thank you for your interest.
+Nick Adams
+
+# Acknowledgments
+## First my instruction staff:
+
+### Tuesdat-Thursday:
+* Treighton Mauldin 
+* Allan Wong
+* Chris Song
+
+### Monday-Wednesday:
+* Alex Kaufman
+* Roman Senin
+* Nico Lauria
+
+
+

@@ -51,9 +51,9 @@ This project is licensed under the MIT license.
 * React
 
 # Deployed Link
-```
+
  https://thebigdeal916.github.io/Nicks-portfolio/
-```
+
 
 # Authour
 

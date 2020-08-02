@@ -52,7 +52,7 @@ This project is licensed under the MIT license.
 
 # Deployed Link
 ```
-* https://thebigdeal916.github.io/Nicks-portfolio/
+ https://thebigdeal916.github.io/Nicks-portfolio/
 ```
 
 # Authour

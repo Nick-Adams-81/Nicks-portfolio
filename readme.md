@@ -68,5 +68,14 @@ Nick Adams
 * Roman Senin
 * Nico Lauria
 
+## Next my Family
+* Terry Lev
+* Joe Lev
+* Lindsey Molineaux
+
+## Lastly My project mates
+* Jake Carver
+* Yeasir Huigas
+* Mike Shiv
 
 

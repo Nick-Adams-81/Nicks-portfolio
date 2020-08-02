@@ -1,6 +1,7 @@
 # Nick Adams Portfolio
 
 This is my portfolio site, it is dedicated to showing my growth as a web developer.
+This site contains links to all of my projects.
 
 # Getting started
 To run this on your local device you will need the open in default browser extension for VS code,
@@ -13,7 +14,9 @@ this app has no back end functionality
 ```
 
 ## License
+```
 This project is licensed under the MIT license.
+```
 
 # Technologies learned
 
@@ -48,8 +51,9 @@ This project is licensed under the MIT license.
 * React
 
 # Deployed Link
-
+```
 * https://thebigdeal916.github.io/Nicks-portfolio/
+```
 
 # Authour
 

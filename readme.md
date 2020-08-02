@@ -2,6 +2,16 @@
 
 This is my portfolio site, it is dedicated to showing my growth as a web developer.
 
+# Getting started
+To run this on your local device you will need the open in default browser extension for VS code,
+once installed all you need to do is right click on the desired file and click open in default browser.
+
+## Back end testing
+
+```
+this app has no back end functionality
+```
+
 # Technologies learned
 
 * HTML 
